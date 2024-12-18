@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\An\\source\\repos\\CarManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C67B166-EED0-4916-8048-B319C2CA4928}|CarManage\\CarManage.csproj|c:\\users\\an\\source\\repos\\carmanage\\carmanage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C67B166-EED0-4916-8048-B319C2CA4928}|CarManage\\CarManage.csproj|solutionrelative:carmanage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C67B166-EED0-4916-8048-B319C2CA4928}|CarManage\\CarManage.csproj|C:\\Users\\An\\source\\repos\\CarManage\\carmanage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C67B166-EED0-4916-8048-B319C2CA4928}|CarManage\\CarManage.csproj|solutionrelative:carmanage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C67B166-EED0-4916-8048-B319C2CA4928}|CarManage\\CarManage.csproj|C:\\Users\\An\\source\\repos\\CarManage\\carmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C67B166-EED0-4916-8048-B319C2CA4928}|CarManage\\CarManage.csproj|solutionrelative:carmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\CarManage\\CarManage\\Login.cs",
+              "RelativeDocumentMoniker": "CarManage\\Login.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\CarManage\\CarManage\\Login.cs",
+              "RelativeToolTip": "CarManage\\Login.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:25:04.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\CarManage\\CarManage\\Program.cs",
+              "RelativeDocumentMoniker": "CarManage\\Program.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\CarManage\\CarManage\\Program.cs",
+              "RelativeToolTip": "CarManage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:22:29.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\CarManage\\CarManage\\Login.cs",
+              "RelativeDocumentMoniker": "CarManage\\Login.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\CarManage\\CarManage\\Login.cs [Design]",
+              "RelativeToolTip": "CarManage\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:16:40.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
