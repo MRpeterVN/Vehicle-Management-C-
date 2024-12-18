@@ -10,7 +10,7 @@ namespace CarManage
 
         public Functions()
         {
-            ConStr = @"Data Source=DESKTOP-N9S7F24\SQLEXPRESS;Initial Catalog=ManageCar;Integrated Security=True";
+            ConStr = @"";
         }
         public string GetConnectionString()
         {
